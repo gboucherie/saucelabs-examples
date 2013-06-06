@@ -1,2 +1,2 @@
-saucelabs-tests
+saucelabs-examples
 ===============
